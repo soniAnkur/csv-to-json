@@ -1,0 +1,23 @@
+{
+  "name": "xls-to-json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Ankur",
+  "license": "",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.11",
+    "gulp-coffeelint": "^0.4.0",
+    "gulp-util": "^3.0.4",
+    "lodash": "^3.9.3",
+    "gulp-xls2json": "latest",
+    "gulp-rename": "latest"
+  },
+  "devDependencies": {
+    "gulp-convert": "^0.2.0"
+  }
+}
